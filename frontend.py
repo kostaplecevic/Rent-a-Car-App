@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import ttk
 import backend
 
-#Kreiranje prozora
+#Kreiranje osnovnog prozora
 root = Tk()
 root.title("Rent a Car")
 root.geometry("270x75+520+80")
